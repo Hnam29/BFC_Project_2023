@@ -755,7 +755,7 @@ if selected == 'Analyze':
             elif filename.endswith('.xlsx') or filename.endswith('.xls'):
                 df = pd.read_excel(fl)  # No need to specify encoding for Excel files
         else:
-            os.chdir(r"/Users/vuhainam/Documents/PROJECT_DA/BFC/ProcessData/FullProcess")
+            # os.chdir(r"/Users/vuhainam/Documents/PROJECT_DA/BFC/ProcessData/FullProcess")
             df = pd.read_excel("Fruit.xlsx")  # No need to specify encoding for Excel files
 
         col1, col2 = st.columns((2))
