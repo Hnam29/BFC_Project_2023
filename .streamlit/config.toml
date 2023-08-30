@@ -11,7 +11,8 @@
 # textColor="#ffffff"
 
 [theme]
+base="light"
 primaryColor="#dabb42"
-backgroundColor="#edeaf1"
 secondaryBackgroundColor="#a979bf"
 textColor="#524c4c"
+
