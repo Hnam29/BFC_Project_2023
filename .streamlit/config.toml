@@ -4,8 +4,14 @@
 # secondaryBackgroundColor="#457ba4"
 # textColor="#ffffff"
 
+# [theme]
+# primaryColor="#5bd3ea"
+# backgroundColor="#835da0"
+# secondaryBackgroundColor="#bfa15a"
+# textColor="#ffffff"
+
 [theme]
-primaryColor="#5bd3ea"
-backgroundColor="#835da0"
-secondaryBackgroundColor="#bfa15a"
-textColor="#ffffff"
+primaryColor="#dabb42"
+backgroundColor="#edeaf1"
+secondaryBackgroundColor="#a979bf"
+textColor="#524c4c"
